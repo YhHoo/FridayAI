@@ -9,8 +9,8 @@ api_key_direction = 'AIzaSyDVGTc3eA3wAsOvDLE7b9a9anKGM9Bbqw4'
 api_key_distance = 'AIzaSyBAsN8SOpjIClACNVkg5pi-vSM4C17mAek'
 # location settings
 units = 'metric'
-origin = '13, Jalan Taming Mutiara 3'.replace(' ', '+')
-destination = 'UTAR Sungai Long Campus'.replace(' ', '+')
+origin = 'Jln Mutiara Emas 9/23, Taman Mount Austin, 81100 Johor Bahru, Johor, Malaysia'.replace(' ', '+')
+destination = 'Singapore Chinese Cultural Centre 1 Straits Boulevard, Singapore, Singapore 018906'.replace(' ', '+')
 nav_request = 'units={}&origins={}&destinations={}&key={}'.format(units,
                                                                   origin,
                                                                   destination,
